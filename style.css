@@ -14,7 +14,7 @@
 #menu{
     width: 120vw;
     position: fixed;
-    bottom: -10px;
-    left: -30px;
+    bottom: -15px;
+    left: -40px;
     z-index: 10;
 }
